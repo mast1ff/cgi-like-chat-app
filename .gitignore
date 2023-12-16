@@ -1,0 +1,10 @@
+.wrangler
+.mf
+node_modules
+dist
+
+# misc
+.DS_Store
+.env
+.env*
+.dev.vars

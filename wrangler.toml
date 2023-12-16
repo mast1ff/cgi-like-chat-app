@@ -1,0 +1,7 @@
+name = "cgi-like-chat-app"
+main = "src/index.tsx"
+compatibility_date = "2023-11-21"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "cgi-like-chat-app"

@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20231121.0",
+    "@hono/vite-cloudflare-pages": "^0.1.1",
+    "@hono/vite-dev-server": "^0.3.0",
+    "miniflare": "^3.20231030.3",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.7",
+    "wrangler": "^3.19.0"
+  },
+  "dependencies": {
+    "hono": "^3.11.4"
+  }
+}
